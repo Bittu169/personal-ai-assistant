@@ -48,7 +48,7 @@ JARVIS AI/
 
 Here is a preview of the JARVIS AI dashboard in action:
 
-![JARVIS AI Desktop Interface](Frontend/screenshots/demo.png)
+![JARVIS AI Desktop Interface](https://github.com/Bittu169/personal-ai-assistant/blob/228cc86b383aa3a3d772cab6c02f61583fcf050b/Screenshot%202026-05-22%20191627.png)
 ![JARVIS AI Desktop Interface](Frontend/screenshots/demo.png)
 
 ## 💻 Tech Stack
