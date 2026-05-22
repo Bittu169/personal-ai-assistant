@@ -1,0 +1,354 @@
+[
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, how can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling seek"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm so sorry to hear that you're not feeling well. Is there something specific that's bothering you or would you like some general advice on how to feel better?"
+    },
+    {
+        "role": "user",
+        "content": "bye"
+    },
+    {
+        "role": "assistant",
+        "content": "Bye, feel better soon."
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, welcome back. How are you feeling now?"
+    },
+    {
+        "role": "user",
+        "content": "Who are u?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, an AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "who is Narendra Modi ?"
+    },
+    {
+        "role": "assistant",
+        "content": "Narendra Modi is the Prime Minister of India."
+    },
+    {
+        "role": "user",
+        "content": "will he won 2026 election in west bengal? if yes, then how much percentage of lead!"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have information about the future election results. However, I can tell you that Narendra Modi is the Prime Minister of India, and his party, the Bharatiya Janata Party (BJP), has been trying to gain a foothold in West Bengal. The 2026 election is still in the future, and it's difficult to predict the outcome."
+    },
+    {
+        "role": "user",
+        "content": "who is cinebap mrinmoy"
+    },
+    {
+        "role": "assistant",
+        "content": "Unfortunately, I couldn't find any information on 'Cinebap Mrinmoy' as the search results provided were empty. If you could provide more context or details, I'd be happy to try and help you further."
+    },
+    {
+        "role": "user",
+        "content": "who is Gourab tapadar"
+    },
+    {
+        "role": "assistant",
+        "content": "Unfortunately, the search results for 'Gourab Tapadar' were empty, and I couldn't find any information on him. If you could provide more context or details, I'd be happy to try and help you further."
+    },
+    {
+        "role": "user",
+        "content": "who is Virat kohli ?"
+    },
+    {
+        "role": "assistant",
+        "content": "Unfortunately, the search results for 'Virat Kohli' were empty. However, I can tell you that Virat Kohli is a well-known Indian cricketer, but I don't have any specific information from the search results provided. If you could provide more context or details, I'd be happy to try and help you further."
+    },
+    {
+        "role": "user",
+        "content": "who is virat kohli ?"
+    },
+    {
+        "role": "assistant",
+        "content": "Virat Kohli is an Indian cricketer who is widely regarded as one of the best batsmen in the world. He is the former captain of the Indian national team and has played for various franchises in the Indian Premier League."
+    },
+    {
+        "role": "user",
+        "content": "who is cinebap mrinmoy"
+    },
+    {
+        "role": "assistant",
+        "content": "I couldn't find any information on 'Cinebap Mrinmoy'. It's possible that the person is not a public figure or doesn't have a significant online presence. If you could provide more context or details, I'd be happy to try and help you further."
+    },
+    {
+        "role": "user",
+        "content": "who is mamata"
+    },
+    {
+        "role": "assistant",
+        "content": "Mamata Banerjee is an Indian politician who is the current Chief Minister of West Bengal."
+    },
+    {
+        "role": "user",
+        "content": "who is hrittk roshan ?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hritik Roshan is an Indian film actor who appears in Bollywood films."
+    },
+    {
+        "role": "user",
+        "content": "What is the stock price of apple ?"
+    },
+    {
+        "role": "assistant",
+        "content": "The search results provided are empty, so I couldn't find the current stock price of Apple."
+    },
+    {
+        "role": "user",
+        "content": "what is the stock price of apple ?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current stock price of Apple is not available as the search results provided are empty."
+    },
+    {
+        "role": "user",
+        "content": "what is the stock price of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have real-time access to current stock prices. For the most up-to-date information, I recommend checking a financial website or platform."
+    },
+    {
+        "role": "user",
+        "content": "what is the current stock price of apple ?"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have real-time access to current stock prices. For the most up-to-date information, I recommend checking a financial website or platform such as Yahoo Finance or Google Finance."
+    },
+    {
+        "role": "user",
+        "content": "What is the stock price of apple ?"
+    },
+    {
+        "role": "assistant",
+        "content": "No search results were found for the current stock price of Apple."
+    },
+    {
+        "role": "user",
+        "content": "stock price of apple ?"
+    },
+    {
+        "role": "assistant",
+        "content": "The stock price of Apple is $270.17, according to the provided search results."
+    },
+    {
+        "role": "user",
+        "content": "who is tony stark"
+    },
+    {
+        "role": "assistant",
+        "content": "Tony Stark is a fictional character, also known as Iron Man, a billionaire industrialist and inventor who suits up in his armor of cutting-edge technology to become a superhero. He is portrayed by Robert Downey Jr. in the Marvel Cinematic Universe."
+    },
+    {
+        "role": "user",
+        "content": "Hello are you listening me hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I'm listening to you. How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "Hello hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, I'm here and ready to chat. What's on your mind?"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, how can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, what's up?"
+    },
+    {
+        "role": "user",
+        "content": "Who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, an AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "What are you doing?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm chatting with you and answering your questions to the best of my ability."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, how are you?"
+    },
+    {
+        "role": "user",
+        "content": "I am fine who are you?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, nice to meet you."
+    },
+    {
+        "role": "user",
+        "content": "Thank you thank you."
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome."
+    },
+    {
+        "role": "user",
+        "content": "Hello are you opening."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I'm open and ready to chat."
+    },
+    {
+        "role": "user",
+        "content": "Can you open whatsapp.?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI chatbot, I don't have the ability to open or access external apps like WhatsApp. I can only communicate with you through this chat interface."
+    },
+    {
+        "role": "user",
+        "content": "You have open whatsapp already so i gu i am telling you can you close it whatsapp."
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have the capability to open or close WhatsApp, as I'm a text-based AI chatbot and don't have access to external apps or devices. I'm only interacting with you through this chat interface."
+    },
+    {
+        "role": "user",
+        "content": "Okay good bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, have a great day."
+    },
+    {
+        "role": "user",
+        "content": "Hello hello how are you?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking. How about you?"
+    },
+    {
+        "role": "user",
+        "content": "Can you play a song of arijit singh.?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI chatbot, I don't have the ability to play songs or access audio files. I can only communicate with you through text. But I can tell you about Arijit Singh's popular songs or provide you with lyrics if you'd like."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, how can I help you?"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis can you able to play a song from spotify."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI chatbot, I don't have the ability to play songs or access external music platforms like Spotify. I can only communicate with you through text."
+    },
+    {
+        "role": "user",
+        "content": "Vitamin a gpt i will come."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not sure what \"Vitamin a gpt\" means. Could you please clarify or rephrase your message? I'm here to help if you have any questions or need assistance."
+    },
+    {
+        "role": "user",
+        "content": "Play song channa mereya from youtube music."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI chatbot, I don't have the ability to play songs or access external music platforms like YouTube Music. I can only communicate with you through text. But I can provide you with information about the song \"Channa Mereya\" if you're interested."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, how can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "Call."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI chatbot, I don't have the ability to make phone calls. I can only communicate with you through text."
+    },
+    {
+        "role": "user",
+        "content": "Play a song from youtube."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI chatbot, I don't have the ability to play songs or access external music platforms like YouTube. I can only communicate with you through text."
+    },
+    {
+        "role": "user",
+        "content": "Play thalapathi kacheri from youtube."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI chatbot, I don't have the ability to play songs or access external music platforms like YouTube. I can only communicate with you through text."
+    }
+]
